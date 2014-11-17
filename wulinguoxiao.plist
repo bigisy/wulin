@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yipinhui.com</string>
+				<string>com.chinazk.qihang</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>epinhui</string>
+				<string>武林国小</string>
 				<key>title</key>
-				<string>epinhui</string>
+				<string>武林国小</string>
 			</dict>
 		</dict>
 	</array>
